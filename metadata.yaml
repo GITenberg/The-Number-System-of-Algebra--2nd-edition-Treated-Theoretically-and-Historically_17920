@@ -1,0 +1,32 @@
+_repo: The-Number-System-of-Algebra--2nd-edition-Treated-Theoretically-and-Historically_17920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fine, Henry B. (Henry Burchard)
+    alias: Fine, Henry Burchard
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '7699'
+    url: http://www.gutenberg.org/2009/agents/7699
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Burchard_Fine
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2006-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics -- History'
+- !lcsh 'Algebra'
+- !lcc 'QA'
+title: 'The Number-System of Algebra (2nd edition)
+
+  Treated Theoretically and Historically'
+url: http://www.gutenberg.org/ebooks/17920
